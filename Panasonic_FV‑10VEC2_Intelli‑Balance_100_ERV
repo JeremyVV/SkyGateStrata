@@ -1,0 +1,61 @@
+# Panasonic FV‑10VEC2 Intelli‑Balance 100 ERV
+
+An Energy Recovery Ventilator (ERV) is a ventilation system that helps keep the air in your home fresh, healthy, and comfortable while saving energy. It works by bringing in fresh outdoor air and exhausting stale indoor air at the same time, but before the two air streams leave and enter your home, they pass through a special core that transfers heat and moisture between them. This means in winter, the ERV captures warmth and humidity from the air you’re expelling and uses it to pre‑warm and humidify the incoming cold, dry air; in summer, it helps keep excess heat and humidity out. The result is better indoor air quality, less stuffiness, and lower heating or cooling costs compared to simple exhaust fans or open windows.
+
+## 📋 Overview
+- **Model**: [FV‑10VEC2](https://iaq.na.panasonic.com/erv/intelli-balance-100-any-climate-corded) (Cold‑Climate, −22 °F/−30 °C rating)
+- **Timer**: "Minutes per hour" setting (ASHRAE 62.2) with default **60 min/hour**, boost function elevates to full CFM
+- **Supply Air**: 50–100 CFM (adjustable via built-in dial)
+- **Exhaust Air**: 50–100 CFM (adjustable via built-in dial)
+- **Filters**: MERV 8 supply filter - [FV-FL0810VE1](https://www.google.com/search?q=FV-FL0810VE1++air+filter) (upgradeable to MERV 13 - FV-FL1310VE1)
+
+## 1. Timing & Airflow Setup
+
+#### Settings for a 980 sq ft unit
+| Season | Size (Sq Ft) | # People |Timer (min/hr)  | Supply Air (CFM) | Exhaust Air (CFM) | Comments |
+|--------|--------------|----------|----------------|------------------|-------------------|----------|
+|Summer  | 980          |    1     | 10 | 50 | 50 | Keeps pressure neutral, increase exhaust if odors are an issue. |
+|Summer  | 980          |    2     | 20 | 60 | 60 | Keeps pressure neutral, increase exhaust if odors are an issue. |
+|Summer  | 980          |    3     | 30 | 70 | 70 | Keeps pressure neutral, increase exhaust if odors are an issue. |
+|Winter  | 980          |    1     | 20 | 60 | 50 | Keeps pressure postive to prevent drafts, increase exhaust if odors or moisture are an issue. |
+|Winter  | 980          |    2     | 30 | 70 | 60 | Keeps pressure postive to prevent drafts, increase exhaust if odors or moisture are an issue. |
+|Winter  | 980          |    3     | 40 | 80 | 70 | Keeps pressure postive to prevent drafts, increase exhaust if odors or moisture are an issue. |
+
+## 2. Maintenance & Consumables
+
+### 🔧 Schedule
+
+| Interval | Tasks |
+|---|---|
+| Every **2–3 months** | Vacuum‑clean both Return Air (RA) and Outside Air (OA) filters with soft‑brush attachment |
+| Every **90 days** | Inspect supply (OA) filter |
+| Every **6 months** | Replace OA (white paper) filter (MERV 8 or MERV 13) — FV‑FL0810VE1 / FV‑FL1310VE1 |
+| As needed | Vacuum and clean energy‑recovery core |
+| After cleaning/replacing filters | Press **Filter Reset Button** ~3 s to reset buzzer/light |
+| Winter/cold conditions | Remove condensation via 4 plugs before maintenance |
+
+### Consumable Parts
+- **OA (white paper) filter**: FV‑FL0810VE1 (MERV 8), FV‑FL1310VE1 (MERV 13)
+- **RA (black resin) filter**: internal, washable (vacuum only)
+- **Energy‑recovery core**: patented capillary core with anti‑mold — clean via soft vacuum
+
+### Spare Parts List
+Several OEM parts available (filters, dampers, fans, PCB, etc.) — see official Panasonic parts list for FV‑10VEC2.
+
+## 3. User & Maintenance Notes
+- **Routine maintenance mandatory** every 2–3 months — clogged filters may cause condensation/operational issues.  
+- **Safety**: Always power off main switch before maintenance; use gloves; avoid water and solvents.  
+- Filters: arrow on OA filter must align with airflow direction; RA filter convex side orientation matters.  
+- **Buzzer**: notifies filter servicing at 90‑day mark. Silence by holding reset ~3 s.  
+- **Static‑pressure ports**: Access panel provides ports to balance supply/exhaust via pressure measurements.
+
+## 4. Summary
+
+1. **Set airflow & timer**: Use ASHRAE formula 
+2. **Clean filters** every 2–3 months  
+3. **Replace OA filter** every 6 months  
+4. **Clean core** as needed  
+5. **Reset filter indicator** after each service  
+6. **Use boost** for short‑term high‑airflow  
+7. Expect **defrost cycles** in cold weather  
+8. **Safety**: power down first, use gloves, no chemicals
