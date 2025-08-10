@@ -25,27 +25,41 @@ This guide provides maintenance and seasonal operation instructions for the **Da
 
 ## 3. Seasonal Settings and Operation
 
-### A. Winter (Heating Mode)
+### Heating Season (Late October – Late April)
+**Goal:** Avoid cold recovery in the mornings & maintain comfort after afternoon cool-down.
 
-- **Mode**: HEAT (☀️)
-- **Fan Speed**: AUTO or low
-- **Temperature**: 20–22°C
-- **Tips**:
-  - Keep windows and doors closed
-  - Avoid frequent on/off switching
-  - Do not use DRY or COOL modes
-
-### B. Summer (Cooling Mode)
-
-- **Mode**: COOL (❄️)
-- **Fan Speed**: AUTO or medium
-- **Temperature**: 22–25°C
-- **Tips**:
-  - Use blinds/curtains to reduce sunlight
-  - Keep unit running consistently during heatwaves
-  - Avoid excessively low temperatures
+| Timer | Start  | End    | Setpoint | Notes |
+|-------|--------|--------|----------|-------|
+| **Morning Warm-Up** | 05:30 | 09:00 | 21 °C (or comfort temp) | Starts before sunrise; prevents morning chill. |
+| **Afternoon Recovery** | 15:00 | 22:00 | Same as morning | Keeps space warm into evening; avoids all-night running. |
 
 ---
+
+### Cooling Season (Early May – Early October)
+**Goal:** Prevent afternoon heat buildup and allow overnight cooling.
+
+| Timer | Start  | End    | Setpoint | Notes |
+|-------|--------|--------|----------|-------|
+| **Morning Hold** | 06:00 | 09:00 | 23–24 °C | Maintains temp before day warms up; minimal morning load. |
+| **Afternoon Pre-Cool** | 13:30 | 21:30 | Same as morning or −0.5–1 °C cooler | Preempts heat gain before it builds. |
+
+---
+
+### Fine-Tuning & Usage Notes
+- **Setback limits:**  
+  - Heating: ≤ 2 °C difference between active and inactive periods.  
+  - Cooling: ≤ 1 °C difference.  
+- **Inverter operation:** Daikin units run most efficiently when maintaining temperature rather than recovering from large swings.
+- **Shoulder months:** In April/May and September/October, try using only the afternoon/evening timer to save energy.
+- **Humidity & defrost:** In winter, avoid large overnight drops to reduce defrost cycles and temperature swings.
+
+---
+
+#### Quick Seasonal Changeover
+| Season Flip | Action |
+|-------------|--------|
+| Late April  | Switch to **Cooling Season** timers |
+| Early October | Switch to **Heating Season** timers |
 
 ## 4. Indoor Unit Maintenance (Unit Owner)
 
