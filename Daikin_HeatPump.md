@@ -73,7 +73,39 @@ Perform these tasks every 3–4 months:
 
 ---
 
-## 5. Important Notes
+## 5. Remote Troubleshooting & Error Codes
+
+The Daikin **BRC944B2** remote can display stored error codes for the indoor/outdoor system.
+
+### How to Retrieve Error Codes:
+1. **Turn the unit OFF** with the remote.
+2. **Hold the “Cancel” button** for ~5 seconds until “00” appears on the screen.
+3. **Press “Cancel” repeatedly** to cycle through possible codes.
+4. When the unit’s indoor section **beeps continuously**, note the code shown.
+5. Exit check mode by holding **Cancel** again for 5 seconds or pressing ON/OFF.
+
+If the remote is blank:
+- Replace batteries with fresh, matching ones.
+- Check polarity and clean contacts.
+- If still blank, use **LED blink codes** on the indoor unit (refer to service manual or contact Strata).
+
+---
+
+### Common Error Codes for FTX12AXVJU:
+| Code | Meaning | Typical Cause |
+|------|---------|---------------|
+| **E7** | Outdoor fan motor lock/malfunction | Failed motor, jammed blade, capacitor issue, PCB fault |
+| **U4** | Indoor/outdoor communication error | Wiring fault, PCB failure |
+| **E1 / E5** | Pressure protection (high/low) | Refrigerant loss, blockage, or fan problem |
+| **L5** | Inverter compressor overload | Compressor or drive circuit fault |
+| **J3** | Outdoor heat exchanger sensor fault | Bad sensor or wiring |
+| **C4** | Indoor heat exchanger sensor fault | Bad sensor or wiring |
+
+> ⚠ **Important:** If you get a compressor, fan, or refrigerant code, turn the system off and contact Strata immediately to prevent further damage.
+
+---
+
+## 6. Important Notes
 
 - **Power Loss**: Unit restores previous settings after outage
 - **Error Codes**: Note code and contact building manager
@@ -81,7 +113,7 @@ Perform these tasks every 3–4 months:
 
 ---
 
-## 6. Contact & Service Coordination
+## 7. Contact & Service Coordination
 
 | Area                    | Contact           | Notes                                 |
 |-------------------------|-------------------|---------------------------------------|
